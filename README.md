@@ -40,8 +40,8 @@ require first downloading the Heroku CLI:
 * Create a free tier account at Heroku.com
 * Create a a new app
 * Under deploy, select Github, and connect the heroku app to the repo
-* Click button to <button>Enable Automatic Deploys</button>
-* Click button to <button>Deploy Branch</button>, deploying the master branch
-* Watch under "Activity" as it loads the application
-* Click the Open button to open the application's page
+* Click button to `Enable Automatic Deploys`
+* Click button to `Deploy Branch` deploying the master branch
+* Watch under `Activity` as it loads the application
+* Click the `Open` button to open the application's page
 
