@@ -43,5 +43,5 @@ require first downloading the Heroku CLI:
 * Click button to `Enable Automatic Deploys`
 * Click button to `Deploy Branch` deploying the master branch
 * Watch under `Activity` and then click `view build progress` to watch the log as it loads the application
-* Click the `Open` button to open the application's page
+* Click the `Open App` button to open the application's page
 
